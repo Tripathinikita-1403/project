@@ -1,0 +1,7 @@
+{
+  "name": "Renova – Advanced Home Renovation Planner",
+  "description": "A comprehensive web application to plan, budget, and track eco-friendly home renovations, featuring modules for garden planning, smart home upgrades, maintenance, and sustainability tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
